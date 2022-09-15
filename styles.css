@@ -151,9 +151,6 @@ button {
 .card {
   padding: 20px;
   margin: 10px;
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
   color: white;
   border-radius: 15px;
   background: rgb(255, 255, 255);
@@ -165,7 +162,7 @@ button {
   backdrop-filter: blur(5px);
 }
 .card p{
-  padding-left: 20px;
+  padding-top: 20px;
 }
 
 #modal-background {
